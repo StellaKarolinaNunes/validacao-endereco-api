@@ -12,11 +12,11 @@
 
 ## Funcionalidades
 
-✅ Busca automática de endereço pelo CEP (API ViaCEP)
-✅ Campos dinâmicos e interativos
-✅ Validação de formulário
-✅ Limpar formulário
-✅ Interface amigável 
+- ✅ Busca automática de endereço pelo CEP (API ViaCEP)
+- ✅ Campos dinâmicos e interativos
+- ✅ Validação de formulário
+- ✅ Limpar formulário
+- ✅ Interface amigável 
 
 ## Como Rodar a Aplicação :arrow_forward:
 
