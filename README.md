@@ -101,10 +101,11 @@ formulario-matricula-flutter/
 
 > [MIT](./License)
 
-## Programador
+## Programadores
 
-| [<img loading="lazy" src="https://github.com/StellaKarolinaNunes.png" width="115"><br><sub>STELLA KAROLINA</sub>](https://github.com/StellaKarolinaNunes) |
-| :---: |
+| [<img src="https://github.com/StellaKarolinaNunes.png" width="100px;"/><br /><sub><b>STELLA KAROLINA</b></sub>](https://github.com/StellaKarolinaNunes)<br /> | [<img src="https://github.com/Gab0701.png" width="100px;"/><br /><sub><b>João Gabriel Peres de Castro</b></sub>](https://github.com/Gab0701)<br /> |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
 
 
 
